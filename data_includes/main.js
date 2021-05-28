@@ -52,6 +52,7 @@ Template("prac.csv",
             .print()
         ,
         newText("How well does this sentence describe the picture shown?")
+            .settings.css("font-size", "2em")
             .center()
             .print()
         ,
@@ -60,6 +61,7 @@ Template("prac.csv",
             .print()
         ,
         newText(row.Sentence)
+            .settings.css("font-size", "2em")
             .center()
             .print()
         ,
@@ -68,6 +70,7 @@ Template("prac.csv",
             .print()
         ,
         newScale("rating", 7)
+            .settings.css("font-size", "2em")
             .center()
             .css("margin", "0 10px 0 10px")
             .labelsPosition("bottom")
@@ -81,6 +84,7 @@ Template("prac.csv",
             .print()
         ,
         newButton("next", "Next")
+            .settings.css("font-size", "2em")
             .center()
             .disable()
             .print()
@@ -163,6 +167,7 @@ Template("ArgAdjNorm.csv",
             .print()
         ,
         newButton("next", "Next")
+            .settings.css("font-size", "2em")
             .center()
             .disable()
             .print()
