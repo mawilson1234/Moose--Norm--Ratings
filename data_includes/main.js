@@ -45,7 +45,7 @@ newTrial("instruction",
 )
 
 Template("prac.csv",
-    row => newTrial("experiment",
+    row => newTrial("trial_prac",
         newImage(row.ImageURL)
             .size(500,500)
             .print()
