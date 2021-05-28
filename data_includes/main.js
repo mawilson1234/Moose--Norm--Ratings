@@ -47,6 +47,7 @@ newTrial("instruction",
 Template("prac.csv",
     row => newTrial("trial_prac",
         newImage(row.ImageURL)
+            .center()
             .size(500,500)
             .print()
         ,
@@ -125,6 +126,7 @@ newTrial("instruction2",
 Template("ArgAdjNorm.csv",
     row => newTrial("experiment",
         newImage(row.ImageURL)
+            .center()
             .size(500,500)
             .print()
         ,
