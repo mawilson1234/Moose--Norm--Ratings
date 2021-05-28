@@ -30,7 +30,7 @@ newTrial( "intro",
 )
 
 newTrial("instruction",
-    newText("Instr", "In this experiment, you will be rating how well some sentences desribe some pictures. You will see a picture, with a sentence and a rating scale below it. Your task is to rate on a scale of 1 to 7 how well the sentence describes the picture shown. A rating of 1 means that the sentence is a very poor description of the picture, while a rating of 7 means that the sentence is a very good description of the picture. We are interested in your initial impression of how well the sentence describes the picture, so you shouldn't need to think things over for too long.</p>")
+    newText("Instr", "In this experiment, you will be rating how well some sentences describe some pictures. You will see a picture, with a sentence and a rating scale below it. Your task is to rate on a scale of 1 to 7 how well the sentence describes the picture shown. A rating of 1 means that the sentence is a very poor description of the picture, while a rating of 7 means that the sentence is a very good description of the picture. We are interested in your initial impression of how well the sentence describes the picture, so you shouldn't need to think things over for too long.</p>")
         .settings.css("font-size", "2em")
         .print()
     ,
