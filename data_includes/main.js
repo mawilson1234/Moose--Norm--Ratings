@@ -6,7 +6,7 @@ Sequence("setcounter", "intro", "instruction", randomize('trial_prac'), 'warn', 
 
 newTrial( "intro",
 
-    newText("Welcome","Welcome! This is the second experiment you will participate in.<p>Please re-enter your Prolific ID below and click Next:")
+    newText("Welcome","Welcome! This is the second half of the experiment.<p>Please re-enter your Prolific ID below and click Next:")
         .settings.css("font-size", "2em")
         .print()
     ,
@@ -32,7 +32,7 @@ newTrial( "intro",
 )
 
 newTrial("instruction",
-    newText("Instr", "In this experiment, you will be rating how well some sentences describe some pictures. You will see a picture, with a sentence and a rating scale below it. Your task is to rate on a scale of 1 to 7 how well the sentence describes the picture shown. A rating of 1 means that the sentence is a very poor description of the picture, while a rating of 7 means that the sentence is a very good description of the picture. We are interested in your initial impression of how well the sentence describes the picture, so you shouldn't need to think things over for too long.</p>")
+    newText("Instr", "In this half of the experiment, you will be rating how well some sentences describe some pictures. You will see a picture, with a sentence and a rating scale below it. Your task is to rate on a scale of 1 to 7 how well the sentence describes the picture shown. A rating of 1 means that the sentence is a very poor description of the picture, while a rating of 7 means that the sentence is a very good description of the picture. We are interested in your initial impression of how well the sentence describes the picture, so you shouldn't need to think things over for too long.</p>")
         .settings.css("font-size", "2em")
         .print()
     ,
@@ -111,12 +111,12 @@ newTrial( "warn",
 )
 
 newTrial("instruction2",
-    newText("Instr2", "Now, you are ready to start the experiment! Remember, your task is to rate how well the sentence describes the picture. We are interested in your initial gut feeling, so there's no need to overthink things!")
+    newText("Instr2", "Now, you are ready to start this half of the experiment! Remember, your task is to rate how well each sentence describes the picture above it.")
         .settings.css("font-size", "2em")
         .print()
     ,
 
-    newButton("Click","Click here to begin the experiment")
+    newButton("Click","Click here to begin the second half")
         .center()
         .settings.css("font-size", "2em")
         .settings.css('margin', '40px')
@@ -185,7 +185,7 @@ Template("ArgAdjNorm.csv",
 )
 
 PennController("feedback",
-    newText("feedback_instruction","If you have any feedback on the experiment, please leave it here.<p>")
+    newText("feedback_instruction","If you have any feedback on the second half of the experiment, please leave it here.<p>")
         .center()
         .print()
     ,
@@ -208,7 +208,7 @@ PennController("feedback",
 )
 
 newTrial("bye" ,
-    newText("Thank you for your participation! Please go to the following web page to verify your participation: <a href='https://app.prolific.co/submissions/complete?cc=728AA2CF'>https://app.prolific.co/submissions/complete?cc=728AA2CF</a>.")
+    newText("Thank you for your participation! This is the end of the full experiment. Please go to the following web page to verify your participation: <a href='https://app.prolific.co/submissions/complete?cc=728AA2CF'>https://app.prolific.co/submissions/complete?cc=728AA2CF</a>.")
         .print(),
         
     newButton()
