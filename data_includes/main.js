@@ -1,4 +1,6 @@
 PennController.ResetPrefix(null) // Shorten command names (keep this line here)
+PennController.DebugOff()
+
 
 Sequence("setcounter", "intro", "instruction", randomize('trial_prac'), 'warn', 'instruction2', randomize("experiment"), "feedback", SendResults(), "bye")
 
