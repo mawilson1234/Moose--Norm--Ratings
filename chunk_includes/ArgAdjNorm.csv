@@ -1,0 +1,57 @@
+Group,Item,Type,Condition,Verb,ImageIdent,Sentence,Name,ImageURL
+A,1,Experimental,Adjunct,wipe,TRUE,The mother is wiping the baby with the cloth.,1_adjunct_mother_wiping_baby_cloth.png,https://umassgaplab.net/michael/ArgAdjPics/1_adjunct_mother_wiping_baby_cloth.png
+B,1,Experimental,Argument,bathe,TRUE,The mother is bathing the baby with the cloth.,1_adjunct_mother_wiping_baby_cloth.png,https://umassgaplab.net/michael/ArgAdjPics/1_adjunct_mother_wiping_baby_cloth.png
+B,2,Experimental,Adjunct,separate,FALSE,The burglar is separating the turkey legs with the knife.,2_adjunct_burglar_separating_turkeylegs_knife.png,https://umassgaplab.net/michael/ArgAdjPics/2_adjunct_burglar_separating_turkeylegs_knife.png
+A,2,Experimental,Argument,chop,FALSE,The burglar is chopping the turkey legs with the knife.,2_argument_burglar_chopping_turkeylegs_knife.png,https://umassgaplab.net/michael/ArgAdjPics/2_argument_burglar_chopping_turkeylegs_knife.png
+A,3,Experimental,Adjunct,fill,TRUE,The gardener is filling the hole with the shovel.,3_argument_gardener_digging_hole_shovel.png,https://umassgaplab.net/michael/ArgAdjPics/3_argument_gardener_digging_hole_shovel.png
+B,3,Experimental,Argument,dig,TRUE,The gardener is digging the hole with the shovel.,3_argument_gardener_digging_hole_shovel.png,https://umassgaplab.net/michael/ArgAdjPics/3_argument_gardener_digging_hole_shovel.png
+B,4,Experimental,Adjunct,attack,TRUE,The caveman is attacking the lion with the spear.,4_argument_caveman_jabbing_lion_spear.png,https://umassgaplab.net/michael/ArgAdjPics/4_argument_caveman_jabbing_lion_spear.png
+A,4,Experimental,Argument,jab,TRUE,The caveman is jabbing the lion with the spear.,4_argument_caveman_jabbing_lion_spear.png,https://umassgaplab.net/michael/ArgAdjPics/4_argument_caveman_jabbing_lion_spear.png
+A,5,Experimental,Adjunct,preparing,TRUE,The mother is preparing the field with the tractor.,5_adjunct_mother_preparing_field_tractor.png,https://umassgaplab.net/michael/ArgAdjPics/5_adjunct_mother_preparing_field_tractor.png
+B,5,Experimental,Argument,plow,TRUE,The mother is plowing the field with the tractor.,5_adjunct_mother_preparing_field_tractor.png,https://umassgaplab.net/michael/ArgAdjPics/5_adjunct_mother_preparing_field_tractor.png
+B,6,Experimental,Adjunct,tease,FALSE,The zookeeper is teasing the snake with the stick.,6_adjunct_zookeeper_teasing_snake_stick.png,https://umassgaplab.net/michael/ArgAdjPics/6_adjunct_zookeeper_teasing_snake_stick.png
+A,6,Experimental,Argument,poke,FALSE,The zookeeper is poking the snake with the stick.,6_argument_zookeeper_poking_snake_stick.png,https://umassgaplab.net/michael/ArgAdjPics/6_argument_zookeeper_poking_snake_stick.png
+A,7,Experimental,Adjunct,bother,TRUE,The gardener is bothering the cat with the toy.,7_argument_gardener_prodding_cat_toy.png,https://umassgaplab.net/michael/ArgAdjPics/7_argument_gardener_prodding_cat_toy.png
+B,7,Experimental,Argument,prod,TRUE,The gardener is prodding the cat with the toy.,7_argument_gardener_prodding_cat_toy.png,https://umassgaplab.net/michael/ArgAdjPics/7_argument_gardener_prodding_cat_toy.png
+B,8,Experimental,Adjunct,burst,TRUE,The burglar is bursting the balloon with the needle.,8_adjunct_burglar_bursting_balloon_needle.png,https://umassgaplab.net/michael/ArgAdjPics/8_adjunct_burglar_bursting_balloon_needle.png
+A,8,Experimental,Argument,puncture,TRUE,The burglar is puncturing the balloon with the needle.,8_adjunct_burglar_bursting_balloon_needle.png,https://umassgaplab.net/michael/ArgAdjPics/8_adjunct_burglar_bursting_balloon_needle.png
+A,9,Experimental,Adjunct,sample,FALSE,The pirate is sampling the ice cream with the spoon.,9_adjunct_pirate_sampling_icecream_spoon.png,https://umassgaplab.net/michael/ArgAdjPics/9_adjunct_pirate_sampling_icecream_spoon.png
+B,9,Experimental,Argument,scoop,FALSE,The pirate is scooping the ice cream with the spoon.,9_argument_pirate_scooping_icecream_spoon.png,https://umassgaplab.net/michael/ArgAdjPics/9_argument_pirate_scooping_icecream_spoon.png
+B,10,Experimental,Adjunct,vandalize,TRUE,The caveman is vandalizing the car with the key.,10_adjunct_caveman_vandalizing_car_key.png,https://umassgaplab.net/michael/ArgAdjPics/10_adjunct_caveman_vandalizing_car_key.png
+A,10,Experimental,Argument,scratch,TRUE,The caveman is scratching the car with the key.,10_adjunct_caveman_vandalizing_car_key.png,https://umassgaplab.net/michael/ArgAdjPics/10_adjunct_caveman_vandalizing_car_key.png
+A,11,Experimental,Adjunct,serve,FALSE,The magician is serving the soup with the spoon.,11_adjunct_magician_serving_soup_spoon.png,https://umassgaplab.net/michael/ArgAdjPics/11_adjunct_magician_serving_soup_spoon.png
+B,11,Experimental,Argument,stir,FALSE,The magician is stirring the soup with the spoon.,11_argument_magician_stirring_soup_spoon.png,https://umassgaplab.net/michael/ArgAdjPics/11_argument_magician_stirring_soup_spoon.png
+B,12,Experimental,Adjunct,threaten,FALSE,The zookeeper is threatening the tiger with the baton.,12_adjunct_zookeeper_threatening_tiger_baton.png,https://umassgaplab.net/michael/ArgAdjPics/12_adjunct_zookeeper_threatening_tiger_baton.png
+A,12,Experimental,Argument,strike,FALSE,The zookeeper is striking the tiger with the baton.,12_argument_zookeeper_striking_tiger_baton.png,https://umassgaplab.net/michael/ArgAdjPics/12_argument_zookeeper_striking_tiger_baton.png
+A,13,Experimental,Adjunct,restrain,TRUE,The magician is restraining the assistant with the rope.,13_adjunct_magician_restraining_assistant_rope.png,https://umassgaplab.net/michael/ArgAdjPics/13_adjunct_magician_restraining_assistant_rope.png
+B,13,Experimental,Argument,tie,TRUE,The magician is tying the assistant with the rope.,13_adjunct_magician_restraining_assistant_rope.png,https://umassgaplab.net/michael/ArgAdjPics/13_adjunct_magician_restraining_assistant_rope.png
+B,14,Experimental,Adjunct,work,TRUE,The pirate is working the soil with the hoe.,14_adjunct_pirate_working_soil_hoe.png,https://umassgaplab.net/michael/ArgAdjPics/14_adjunct_pirate_working_soil_hoe.png
+A,14,Experimental,Argument,till,TRUE,The pirate is tilling the soil with the hoe.,14_adjunct_pirate_working_soil_hoe.png,https://umassgaplab.net/michael/ArgAdjPics/14_adjunct_pirate_working_soil_hoe.png
+A,15,Control,Match,hop,TRUE,The bunny is hopping.,01-Match BunnyHopping.png,https://umassgaplab.net/michael/ControlsforNorming/01-Match BunnyHopping.png
+B,15,Control,Match,hop,TRUE,The bunny is hopping.,01-Match BunnyHopping.png,https://umassgaplab.net/michael/ControlsforNorming/01-Match BunnyHopping.png
+B,16,Control,Match,swing,TRUE,The baseball player is swinging at the ball.,02-Match BaseballPlayerSwinging.png,https://umassgaplab.net/michael/ControlsforNorming/02-Match BaseballPlayerSwinging.png
+A,16,Control,Match,swing,TRUE,The baseball player is swinging at the ball.,02-Match BaseballPlayerSwinging.png,https://umassgaplab.net/michael/ControlsforNorming/02-Match BaseballPlayerSwinging.png
+A,17,Control,Match,pull,TRUE,The bird is pulling a worm out of the ground.,03-Match BirdPulling.png,https://umassgaplab.net/michael/ControlsforNorming/03-Match BirdPulling.png
+B,17,Control,Match,pull,TRUE,The bird is pulling a worm out of the ground.,03-Match BirdPulling.png,https://umassgaplab.net/michael/ControlsforNorming/03-Match BirdPulling.png
+B,18,Control,Match,rake,TRUE,The man is raking the leaves.,04-Match ManRaking.png,https://umassgaplab.net/michael/ControlsforNorming/04-Match ManRaking.png
+A,18,Control,Match,rake,TRUE,The man is raking the leaves.,04-Match ManRaking.png,https://umassgaplab.net/michael/ControlsforNorming/04-Match ManRaking.png
+A,19,Control,Match,feed,TRUE,The girl is feeding the dogs.,05-Match GirlFeeding.png,https://umassgaplab.net/michael/ControlsforNorming/05-Match GirlFeeding.png
+B,19,Control,Match,feed,TRUE,The girl is feeding the dogs.,05-Match GirlFeeding.png,https://umassgaplab.net/michael/ControlsforNorming/05-Match GirlFeeding.png
+B,20,Control,Match,mop,TRUE,The janitor is mopping the floor.,06-Match JanitorMopping.png,https://umassgaplab.net/michael/ControlsforNorming/06-Match JanitorMopping.png
+A,20,Control,Match,mop,TRUE,The janitor is mopping the floor.,06-Match JanitorMopping.png,https://umassgaplab.net/michael/ControlsforNorming/06-Match JanitorMopping.png
+A,21,Control,Match,look,TRUE,The detective is looking for clues with the magnifying glass.,07-Match DetectiveLooking.png,https://umassgaplab.net/michael/ControlsforNorming/07-Match DetectiveLooking.png
+B,21,Control,Match,look,TRUE,The detective is looking for clues with the magnifying glass.,07-Match DetectiveLooking.png,https://umassgaplab.net/michael/ControlsforNorming/07-Match DetectiveLooking.png
+B,22,Control,Mismatch,gallop,TRUE,The horse is galloping.,08-Mismatch HorseGalloping.png,https://umassgaplab.net/michael/ControlsforNorming/08-Mismatch HorseGalloping.png
+A,22,Control,Mismatch,gallop,TRUE,The horse is galloping.,08-Mismatch HorseGalloping.png,https://umassgaplab.net/michael/ControlsforNorming/08-Mismatch HorseGalloping.png
+A,23,Control,Mismatch,hug,TRUE,The man and the woman are hugging.,09-Mismatch ManWomanHugging.png,https://umassgaplab.net/michael/ControlsforNorming/09-Mismatch ManWomanHugging.png
+B,23,Control,Mismatch,hug,TRUE,The man and the woman are hugging.,09-Mismatch ManWomanHugging.png,https://umassgaplab.net/michael/ControlsforNorming/09-Mismatch ManWomanHugging.png
+B,24,Control,Mismatch,wash,TRUE,The mechanic is washing the car.,10-Mismatch MechanicWashing.png,https://umassgaplab.net/michael/ControlsforNorming/10-Mismatch MechanicWashing.png
+A,24,Control,Mismatch,wash,TRUE,The mechanic is washing the car.,10-Mismatch MechanicWashing.png,https://umassgaplab.net/michael/ControlsforNorming/10-Mismatch MechanicWashing.png
+A,25,Control,Mismatch,serve,TRUE,The waiter is serving the couple their food.,11-Mismatch WaiterServing.png,https://umassgaplab.net/michael/ControlsforNorming/11-Mismatch WaiterServing.png
+B,25,Control,Mismatch,serve,TRUE,The waiter is serving the couple their food.,11-Mismatch WaiterServing.png,https://umassgaplab.net/michael/ControlsforNorming/11-Mismatch WaiterServing.png
+B,26,Control,Mismatch,watch,TRUE,The woman is watching TV.,12-Mismatch WomanWatching.png,https://umassgaplab.net/michael/ControlsforNorming/12-Mismatch WomanWatching.png
+A,26,Control,Mismatch,watch,TRUE,The woman is watching TV.,12-Mismatch WomanWatching.png,https://umassgaplab.net/michael/ControlsforNorming/12-Mismatch WomanWatching.png
+A,27,Control,Mismatch,do,TRUE,The boy is doing somersaults.,13-Mismatch BoyDoing.png,https://umassgaplab.net/michael/ControlsforNorming/13-Mismatch BoyDoing.png
+B,27,Control,Mismatch,do,TRUE,The boy is doing somersaults.,13-Mismatch BoyDoing.png,https://umassgaplab.net/michael/ControlsforNorming/13-Mismatch BoyDoing.png
+B,28,Control,Mismatch,operate,TRUE,The doctor is operating on the patient.,14-Mismatch DoctorOperating.png,https://umassgaplab.net/michael/ControlsforNorming/14-Mismatch DoctorOperating.png
+A,28,Control,Mismatch,operate,TRUE,The doctor is operating on the patient.,14-Mismatch DoctorOperating.png,https://umassgaplab.net/michael/ControlsforNorming/14-Mismatch DoctorOperating.png
