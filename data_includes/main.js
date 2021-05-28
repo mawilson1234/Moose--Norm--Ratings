@@ -131,6 +131,7 @@ Template("ArgAdjNorm.csv",
             .print()
         ,
         newText("How well does this sentence describe the picture shown?")
+            .settings.css("font-size", "2em")
             .center()
             .print()
         ,
@@ -139,6 +140,7 @@ Template("ArgAdjNorm.csv",
             .print()
         ,
         newText(row.Sentence)
+            .settings.css("font-size", "2em")
             .center()
             .print()
         ,
@@ -147,6 +149,7 @@ Template("ArgAdjNorm.csv",
             .print()
         ,
         newScale("rating", 7)
+            .settings.css("font-size", "2em")
             .center()
             .css("margin", "0 10px 0 10px")
             .labelsPosition("bottom")
