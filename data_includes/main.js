@@ -52,7 +52,6 @@ Template("prac.csv",
             .print()
         ,
         newText("How well does this sentence describe the picture shown?")
-            .settings.css("font-size", "2em")
             .center()
             .print()
         ,
@@ -61,7 +60,6 @@ Template("prac.csv",
             .print()
         ,
         newText(row.Sentence)
-            .settings.css("font-size", "2em")
             .center()
             .print()
         ,
@@ -73,12 +71,8 @@ Template("prac.csv",
             .center()
             .css("margin", "0 10px 0 10px")
             .labelsPosition("bottom")
-            .before(newText("Very poorly")
-                .settings.css("font-size", "2em")
-            )
-            .after(newText("Very well")
-                .settings.css("font-size", "2em")
-            )
+            .before(newText("Very poorly"))
+            .after(newText("Very well"))
             .print()
             .log("last")
         ,
@@ -87,7 +81,6 @@ Template("prac.csv",
             .print()
         ,
         newButton("next", "Next")
-            .settings.css("font-size", "2em")
             .center()
             .disable()
             .print()
@@ -138,7 +131,6 @@ Template("ArgAdjNorm.csv",
             .print()
         ,
         newText("How well does this sentence describe the picture shown?")
-            .settings.css("font-size", "2em")
             .center()
             .print()
         ,
@@ -147,7 +139,6 @@ Template("ArgAdjNorm.csv",
             .print()
         ,
         newText(row.Sentence)
-            .settings.css("font-size", "2em")
             .center()
             .print()
         ,
@@ -156,16 +147,11 @@ Template("ArgAdjNorm.csv",
             .print()
         ,
         newScale("rating", 7)
-            .settings.css("font-size", "2em")
             .center()
             .css("margin", "0 10px 0 10px")
             .labelsPosition("bottom")
-            .before(newText("Very poorly")
-                .settings.css("font-size", "2em")
-            )
-            .after(newText("Very well")
-                .settings.css("font-size", "2em")
-            )
+            .before(newText("Very poorly"))
+            .after(newText("Very well"))
             .print()
             .log("last")
         ,
@@ -174,7 +160,6 @@ Template("ArgAdjNorm.csv",
             .print()
         ,
         newButton("next", "Next")
-            .settings.css("font-size", "2em")
             .center()
             .disable()
             .print()
